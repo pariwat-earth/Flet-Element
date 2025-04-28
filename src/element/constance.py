@@ -1,2 +1,5 @@
 Neo_Mint = '#34D399'
 Deep_Purple = '#8B5CF6'
+White = '#FFFFFF'
+Grey = '#757575'
+Back = '#000000'
